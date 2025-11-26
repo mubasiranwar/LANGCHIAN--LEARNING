@@ -1,0 +1,68 @@
+🤖 OpenRouter Chatbot
+Powered by DeepSeek Model via LangChain
+💬 Enter your question:
+
+Genrate a 50 line  poem on cricket
+
+
+✅ Response:
+
+The sun-kissed field, a sight to see,
+The game begins, the crowd cheers free.
+The bat and ball, a symphony,
+As cricket’s magic sets the energy.
+
+The bowler runs, a fiery pace,
+The batsman swings, a smiling face.
+The ball soars high, a perfect arc,
+A six, and joy does embark.
+
+The wicket falls, a sudden sound,
+The fielders leap, their spirits bound.
+The umpire’s call, a moment’s pause,
+The game’s intensity, it never claws.
+
+The spinners turn, a wily art,
+The fast bowlers tear the heart.
+The keeper crouches, eyes so keen,
+To catch the edge, his only dream.
+
+The batsmen walk, their will to fight,
+To build a score, to make it right.
+Each run a step, each boundary cheer,
+The crowd’s delight, the players hear.
+
+The captain leads, a guiding light,
+To strategize, to win the fight.
+The team unites, a common goal,
+To conquer all, to touch the soul.
+
+The tension mounts, the stakes are high,
+Each ball a test, each moment dry.
+The game of skill, the game of might,
+A dance of wills, a wondrous sight.
+
+The Pavilion stands, a noble grace,
+Where legends born, their stories trace.
+The field of dreams, where heroes rise,
+Where cricket’s magic meets the skies.
+
+The sun dips low, the day grows old,
+The game unwinds, the tales are told.
+The players leave, their hearts aglow,
+For in this game, their spirit grows.
+
+The crowd disperse, their voices fade,
+The field lies still, the day is made.
+But in their hearts, the love remains,
+For cricket’s charm, its endless refrains.
+
+The game of kings, the game of men,
+Where passion flows, where friendships blend.
+A game of life, a game of grace,
+Where every moment holds its place.
+
+The spirit lives, the love will grow,
+For cricket’s heartbeat, it will always show.
+In every ball, in every run,
+The joy of cricket, it has just begun.
